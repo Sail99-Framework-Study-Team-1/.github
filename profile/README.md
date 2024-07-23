@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-<!--
+# 🎓 스터디 진행 방식
 
-**Here are some ideas to get you started:**
+1. **첫 번째 모임은 카톡으로 사전 협의.** 📱
+2. **모임 시 다음 모임 날짜/시간 협의.** 🗓️🕒
+3. **다음 모임까지의 프레임워크 개발 진도 협의/설정.** 🔧📈
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 📂 레포지토리 작성 방식
+
+1. **Organization에 자신의 이름으로 레포지토리를 생성합니다.** 👤📁
+2. **Repository에는 하나의 프로젝트로 진행이 됩니다.** 🛠️
+3. **프로젝트 파일에 Readme_week1,2,3... 파일을 매 주 모임 전날에 작성합니다.** 📝📅
+   - **핵심 로직이나 트러블슈팅 등.** 🔑🐛
+4. **해당 리드미를 토대로 모임에서의 발제가 됩니다.** 📢👥
+
